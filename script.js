@@ -32,54 +32,23 @@ const resume = {
     'Python',
     'Data Analysis',
     'Excel',
-    'PostgreSQL',
     'Business Administration',
-    'Leadership',
-    'Communication',
-    'Django',
-    'JavaScript',
-    'HTML',
-    'CSS',
-    'ReactJS',
-    'Azure',
+    'Leadership'
   ],
   languages: ['English', 'Spanish'],
-  professionalSummary: `I am a young scientist with experience in Data Analysis, Academic Writing, Research, Business Administration, and recently, Machine Learning Algorithms (Python). My goal as a Data Analyst is to develop and provide solutions to improve data-driven decision-making.`,
+  professionalSummary: `I am a last semester Mechanical Engineering student, who has cursed part of the Maintenance Specialization and is passionate about using software and automatization. I have 5 years of experience with applying and inspecting SMAW and GMAW welds, oxi-fuel welding and other machinery and tools of metallurgy and building. I have lead groups of up to 49 people. Founder and C.E.O of Latincueros Leather Shop, were I implement LEAN manufacturing and Kaizen. I will also work to use technology to improve the customers’ buying experience at the store.`,
   employmentHistory: [
     {
       jobTitle: 'Co-Founder and COO',
       startDate: 'Sep 2019',
       endDate: 'Jan 2022',
-      employer: 'innLoop',
+      employer: 'Latincueros',
       city: 'Cozumel, MX',
       achievements: [
         'I co-founded a business in leather distribution',
         'Leather articles production.'
       ]
-    },
-    {
-      jobTitle: 'Ph.D Scholar',
-      startDate: 'Aug 2016',
-      endDate: 'Dec 2022',
-      employer: 'Tecnologico de Monterrey',
-      city: 'Monterrey, MX',
-      achievements: [
-        'Joined as the first remote employee and worked with the founders to improve the performance and UX of the apps according to the business goals.',
-        'Led team of 5 engineers and Coordinate with other teams to build a modular mobile app for iOS and Android with React Native.',
-        'Developed native integrations to improve the UX of mobile apps, reaching more than 3 million downloads with Open Source side projects.',
-      ]
-    },
-    {
-      jobTitle: 'Visiting Scholar',
-      startDate: 'Sep 2017',
-      endDate: 'Mar 2018',
-      employer: 'Massachusetts Institute of Technology',
-      city: 'Cambridge, MA',
-      achievements: [
-        'Created the baseline for the development of reactive apps using new technologies such as MeteorJS and GraphQL for rapid prototyping.',
-        'Contributed to configure continuous integration pipelines for new projects through cloud services with Azure and Visual Studio Team Services.'
-      ]
-    },
+    }
   ],
   photo: 'https://media-exp1.licdn.com/dms/image/C4E03AQEm4gujFwz_IQ/profile-displayphoto-shrink_200_200/0/1658476044678?e=1664409600&v=beta&t=lD2Lk3PnykmTT-MH_nbHlOUlT2gT9xCY693KVAUhmgA',
 }
