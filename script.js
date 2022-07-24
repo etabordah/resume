@@ -2,36 +2,30 @@
  * Resume/CV template created with Bootstrap 5 by @vmoratog and @jdnichollsc
  */
 const resume = {
-  firstName: 'Gustavo',
-  lastName: 'Hernández Vargas',
-  jobTitle: 'Data Engineer',
-  /* city: 'Cozumel',
-  postalCode: '77600',
-  country: 'México', */
-  phone: '+573113101122',
-  email: 'gushdzv@gmail.com',
+  firstName: 'Estiven',
+  lastName: 'Taborda',
+  jobTitle: 'Mechanical Engineer',
+  /* city: 'Medellín',
+  postalCode: '',
+  country: 'Colombia', */
+  phone: '+573225595950',
+  email: 'etabordah@gmail.com',
   education: [
     {
-      school: 'Tecnológico de Monterrey',
+      school: 'Universidad Nacional de Colombia, Sede Medellín',
       degree: 'Bachelor',
-      graduationDate: '2014',
-      description: 'Biotechnology Engineering'
-    },
-    {
-      school: 'Tecnológico de Monterrey',
-      degree: 'Ph.D.',
-      graduationDate: '2020',
-      description: 'Ph.D. in Biotechnology'
+      graduationDate: '2022',
+      description: 'Mechanical Engineering'
     }
   ],
   links: [
     {
       label: 'GitHub',
-      link: 'https://github.com/gushdzv'
+      link: 'https://github.com/flegerto'
     },
     {
       label: 'LinkedIn',
-      link: 'https://www.linkedin.com/in/gushdzv/'
+      link: 'https://www.linkedin.com/in/etabordah/'
     },
   ],
   skills: [
@@ -59,8 +53,8 @@ const resume = {
       employer: 'innLoop',
       city: 'Cozumel, MX',
       achievements: [
-        'I co-founded a startup to produce biofuels from waste cooking oil.',
-        'Led the production team to produce .'
+        'I co-founded a business in leather distribution',
+        'Leather articles production.'
       ]
     },
     {
@@ -87,7 +81,7 @@ const resume = {
       ]
     },
   ],
-  photo: 'https://drive.google.com/file/d/1gN02y1fvVNO3uDivj6J8_1ocacQ7GkE3/view',
+  photo: 'https://media-exp1.licdn.com/dms/image/C4E03AQEm4gujFwz_IQ/profile-displayphoto-shrink_200_200/0/1658476044678?e=1664409600&v=beta&t=lD2Lk3PnykmTT-MH_nbHlOUlT2gT9xCY693KVAUhmgA',
 }
 
 const formatResume = (r) => ({
