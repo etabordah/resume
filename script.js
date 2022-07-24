@@ -5,7 +5,7 @@ const resume = {
   firstName: 'Estiven',
   lastName: 'Taborda',
   jobTitle: 'Mechanical Engineer',
-  /* city: 'Medellín',
+  /* city: 'Medellín, Colombia',
   postalCode: '',
   country: 'Colombia', */
   phone: '+573225595950',
@@ -41,9 +41,9 @@ const resume = {
     {
       jobTitle: 'Co-Founder and COO',
       startDate: 'Sep 2019',
-      endDate: 'Jan 2022',
+      endDate: 'Now',
       employer: 'Latincueros',
-      city: 'Cozumel, MX',
+      city: 'Medellín, COL',
       achievements: [
         'I co-founded a business in leather distribution',
         'Leather articles production.'
