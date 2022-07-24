@@ -50,7 +50,7 @@ const resume = {
       ]
     }
   ],
-  photo: 'https://media-exp1.licdn.com/dms/image/C4E03AQEm4gujFwz_IQ/profile-displayphoto-shrink_200_200/0/1658476044678?e=1664409600&v=beta&t=lD2Lk3PnykmTT-MH_nbHlOUlT2gT9xCY693KVAUhmgA',
+  photo: 'https://media-exp1.licdn.com/dms/image/C4E03AQEm4gujFwz_IQ/profile-displayphoto-shrink_800_800/0/1658476044678?e=1664409600&v=beta&t=Jlbw0og_5QBjiSeTIQwpEtTw0TubWnFrRHsYpX43wjA',
 }
 
 const formatResume = (r) => ({
