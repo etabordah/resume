@@ -2,36 +2,31 @@
  * Resume/CV template created with Bootstrap 5 by @vmoratog and @jdnichollsc
  */
 const resume = {
-  firstName: 'Gustavo',
-  lastName: 'Hernández Vargas',
-  jobTitle: 'Data Engineer',
-  /* city: 'Cozumel',
-  postalCode: '77600',
-  country: 'México', */
-  phone: '+573113101122',
-  email: 'gushdzv@gmail.com',
+  firstName: 'Estiven',
+  lastName: 'Taborda Hurtado',
+  jobTitle: 'Mechanical Engineer',
+  city: 'Medellín',
+  //postalCode: '77600',
+  country: 'Colombia',
+  phone: '+573226696950',
+  email: 'etabordah@gmail.com',
+  window: 'Estiven Taborda - Mechanical Engineer',
   education: [
     {
-      school: 'Tecnológico de Monterrey',
-      degree: 'Bachelor',
-      graduationDate: '2014',
-      description: 'Biotechnology Engineering'
-    },
-    {
-      school: 'Tecnológico de Monterrey',
-      degree: 'Ph.D.',
-      graduationDate: '2020',
-      description: 'Ph.D. in Biotechnology'
+      school: 'Universidad Nacional de Colombia Sede Medellín',
+      degree: 'College',
+      graduationDate: '2022',
+      description: 'Mechanical Engineering'
     }
   ],
   links: [
     {
       label: 'GitHub',
-      link: 'https://github.com/gushdzv'
+      link: 'https://github.com/flegerto'
     },
     {
       label: 'LinkedIn',
-      link: 'https://www.linkedin.com/in/gushdzv/'
+      link: 'https://www.linkedin.com/in/flegerto/'
     },
   ],
   skills: [
@@ -49,7 +44,7 @@ const resume = {
     'ReactJS',
     'Azure',
   ],
-  languages: ['English', 'Spanish'],
+  languages: ['English', 'Spanish', 'French'],
   professionalSummary: `I am a young scientist with experience in Data Analysis, Academic Writing, Research, Business Administration, and recently, Machine Learning Algorithms (Python). My goal as a Data Analyst is to develop and provide solutions to improve data-driven decision-making.`,
   employmentHistory: [
     {
