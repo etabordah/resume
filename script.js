@@ -54,6 +54,7 @@ const resume = {
       employer: 'Mántum S.A.S.',
       city: 'Medellín, Col',
       achievements: [
+        'Analizar los datos y utilizarlos para ayudar a nuestros clientes a tomar las mejores decisiones para su empresa.',
         'Apoyé la gestión y desarrollo de proyectos IoT donde se instalaron más de 400 dispositivos a lo largo del país.',
         'Gestioné compras con proveedores internacionales de Europa y Asia.',
         'Diseño mecánico, electrónico, programación y gestión de fabricación de dispositivos IoT.',
