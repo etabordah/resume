@@ -5,22 +5,22 @@ const resume = {
   window:'Estiven Taborda',
   firstName: 'Estiven',
   lastName: 'Taborda',
-  jobTitle: 'Ingeniero Mecánico',
+  jobTitle: 'Mechanical Engineeer',
   city: 'Medellín',
   postalCode: '',
   country: 'Colombia', 
   phone: '+573225595950',
   email: 'etabordah@gmail.com',
-  t_education:'Educación',
+  t_education:'Education',
   education: [
     {
-      school: 'Universidad Nacional de Colombia, Sede Medellín',
-      degree: 'Universitario',
+      school: 'Universidad Nacional de Colombia Sede Medellín',
+      degree: "Bachelor's Degree",
       graduationDate: '2022',
-      description: 'Ingeniero Mecánico'
+      description: 'Mecanical Engineer'
     }
   ],
-  t_links:'Enlaces',
+  t_links:'Links',
   links: [
     {
       label: 'GitHub',
@@ -31,64 +31,66 @@ const resume = {
       link: 'https://www.linkedin.com/in/etabordah/'
     },
   ],
-  t_skills: 'Habilidades',
+  t_skills: 'Skills',
   skills: [
-    'Programación en Python, C++, Java, C#.',
-    'Análisis de Datos.',
+    'Coding with Python, C++, Java and C#.',
+    'Data Analysis.',
     'Web Scraping',
-    'MS Excel Avanzado.',
-    'Diseño en SolidWorks.',
-    'Soldadura en SMAW, GMAW y Oxicorte.'
+    'Advanced use of MS Excel.',
+    'SolidWorks.',
+    'SMAW, GMAW and Oxyfuel welding.'
   ],
-  t_languages:'Lenguajes',
-  languages: ['Inglés', 'Español'],
-  t_aboutme:'Perfil',
+  t_languages:'Languages',
+  languages: ['English', 'Spanish'],
+  t_aboutme:'Profile',
   professionalSummary: 
-    'Ingeniero Mecánico con 1 año y medio en el campo de la gestión del mantenimiento, electrónica y software. Más de 5 años de experiencia encabezando negocios. Con habilidad para garantizar el avance de los proyectos, generar compromiso en proveedores, equipos de trabajo y generar el cierre de ventas. Líder en la creación de proyectos para el mejoramiento y automatización de procesos en las organizaciones.',
-  t_workexp:'Experiencia Laboral',
+    'Mechanical Engineer with 1.5 years in the field of maintenance management, electronics and software. More than 5 years of experience leading businesses. With the ability to ensure the progress of projects, generate commitment in suppliers, work teams and generate closing of sales. Leader in the creation of projects for the improvement and automation of processes in organizations.',
+  t_workexp:'Work Experience',
   employmentHistory: [
     {
-      jobTitle: 'Consultor Junior',
-      startDate: 'Jul 2021',
-      endDate: 'Actualidad',
-      employer: 'Mántum S.A.S.',
-      city: 'Medellín, Col',
+      jobTitle: 'Junior Consultant',
+      startDate: 'July 2021',
+      endDate: 'Present',
+      employer: 'Mantum S.A.S.',
+      city: 'Medellin, Col',
       achievements: [
-        'Analizar los datos y utilizarlos para ayudar a nuestros clientes a tomar las mejores decisiones para su empresa.',
-        'Apoyé la gestión y desarrollo de proyectos IoT donde se instalaron más de 400 dispositivos a lo largo del país.',
-        'Gestioné compras con proveedores internacionales de Europa y Asia.',
-        'Diseño mecánico, electrónico, programación y gestión de fabricación de dispositivos IoT.',
-        'Desarrollé una APP para la coordinación y registro de las instalaciones IoT y generación automática de Actas de Entrega.',
-        'Configuración de servidor MQTT para comunicación de dispositivos.',
-        'Asesoro Directores de Mantenimiento en el uso de Mántum CMMS y acerca de las mejores prácticas de mantenimiento.',
-        'Programo automatizaciones web usando Python y Selenium.',
-        'Automatización de procesos administrativos y generación de documentos usando AppsScript.',
-        'Conexión de la Api Google Calendar con Mántum CMMS'
+        'Analize data and use it to help our customers make the best decisions for their company',
+        'Advise Maintenance Managers in the use of Mantum CMMS and about best maintenance practices.',
+        'Program web automations using Python and Selenium.',
+  'Automated administrative processes and document generation using AppsScript.',
+        'Connected Google Calendar Api with Mántum CMMS',
+  'Supported the management and development of IoT projects where more than 400 devices were installed throughout the country.',
+        'Managed purchases with international suppliers in Europe and Asia.',
+        'Programmed and developed the mechanical and electrical design of IoT devices as well as managing their manufacturing.',
+        'Developed an APP for the coordination and registration of IoT installations and automatic generation of Delivery Certificates.',
+        'Configured a MQTT server for device communication',
+
+
       ]
     },
     {
-      jobTitle: 'Co-Fundador y CEO',
-      startDate: 'Sep 2019',
-      endDate: 'Jun 2021',
+      jobTitle: 'Co-Founder y CEO',
+      startDate: 'September 2019',
+      endDate: 'June 2021',
       employer: 'Latincueros',
-      city: 'Medellín, Col',
+      city: 'Medellin, Col',
       achievements: [
-        'Estoy a cargo de las labores comerciales y administrativas.',
-        'Desarrollé una APP para la contabilidad.',
-        'Desarrollé un software para la medición del Área del Cuero utilizando Visión Artificial.',
+        'In charge of commercial and administrative tasks.',
+        'Developed an APP for accounting.',
+        'Deeloped a software for measuring leather area using Computer Vision.',
         'Community manager.',
-      ]
+       ]
     },
     {
-      jobTitle: 'Auxiliar de Operaciones',
-      startDate: 'Nov 2016',
-      endDate: 'Sep 2019',
+      jobTitle: 'Operations Assistant',
+      startDate: 'November 2016',
+      endDate: 'September 2019',
       employer: 'Pielesynegocios SAS',
-      city: 'Medellín, Col',
+      city: 'Medellin, Col',
       achievements: [
-        'Producción de artículos de cuero.',
-        'Asistente administrativo.',
-        'Montaje y soldadura de estructuras metálicas.',
+        'Production of leather goods.',
+        'Administrative assistant.',
+        'Assembly and welding of metal structures',
       ]
     }
   ],
