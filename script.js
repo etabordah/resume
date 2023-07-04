@@ -44,7 +44,7 @@ const resume = {
   languages: ['English', 'Spanish'],
   t_aboutme:'Profile',
   professionalSummary: 
-    'Mechanical Engineer with 1.5 years in the field of maintenance management, electronics and software. More than 5 years of experience leading businesses. With the ability to ensure the progress of projects, generate commitment in suppliers, work teams and generate closing of sales. Leader in the creation of projects for the improvement and automation of processes in organizations.',
+    'Mechanical Engineer with 2 years in the field of maintenance management, electronics and software. More than 5 years of experience leading businesses. With the ability to ensure the progress of projects, generate commitment in suppliers, work teams and generate closing of sales. Leader in the creation of projects for the improvement and automation of processes in organizations.',
   t_workexp:'Work Experience',
   employmentHistory: [
     {
@@ -62,10 +62,7 @@ const resume = {
   'Supported the management and development of IoT projects where more than 400 devices were installed throughout the country.',
         'Managed purchases with international suppliers in Europe and Asia.',
         'Programmed and developed the mechanical and electrical design of IoT devices as well as managing their manufacturing.',
-        'Developed an APP for the coordination and registration of IoT installations and automatic generation of Delivery Certificates.',
-        'Configured a MQTT server for device communication',
-
-
+        'Developed an APP for the coordination and registration of IoT installations and automatic generation of Delivery Certificates.'
       ]
     },
     {
@@ -94,7 +91,7 @@ const resume = {
       ]
     }
   ],
-  photo: 'https://media.licdn.com/dms/image/C4E03AQEm4gujFwz_IQ/profile-displayphoto-shrink_200_200/0/1658476044678?e=1682553600&v=beta&t=ROOpj4dS5PJuI_EDGzjDmf2rtDg7CrsezW_H-2ppErw',
+  photo: 'profile.jpg',
 }
 
 const formatResume = (r) => ({
